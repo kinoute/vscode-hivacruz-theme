@@ -428,6 +428,20 @@
 			"settings": {
 				"foreground": "#fff"
 			}
+		},
+		{
+			"name": "Docstring Python",
+			"scope": "string.quoted.docstring.multi.python",
+			"settings": {
+				"foreground": "#B87F62"
+			}
+		},
+		{
+			"name": "Generic function Python",
+			"scope": "meta.function-call.generic.python",
+			"settings": {
+				"foreground": "#27c3ca"
+			}
 		}
 	],
 	"colors": {
@@ -453,7 +467,7 @@
 		"editorGroup.border": "#011627",
 		"editorGroup.dropBackground": "#7e57c273",
 		"editorGroupHeader.noTabsBackground": "#0b2942",
-		"editorGroupHeader.tabsBackground": "#0b2942",
+		"editorGroupHeader.tabsBackground": "#212431",
 		"editorGroupHeader.tabsBorder": "#262a39",
 		"editorGutter.addedBackground": "#5f7e97",
 		"editorGutter.background": "#152638",
@@ -505,11 +519,11 @@
 		"statusBarItem.hoverBackground": "#202431",
 		"statusBarItem.prominentBackground": "#202431",
 		"statusBarItem.prominentHoverBackground": "#202431",
-		"tab.activeBackground": "#0b2942",
+		"tab.activeBackground": "#152638",
 		"tab.activeBorder": "#152638",
 		"tab.activeForeground": "#d2dee7",
 		"tab.border": "#272b3b",
-		"tab.inactiveBackground": "#0b2942",
+		"tab.inactiveBackground": "#212431",
 		"tab.inactiveForeground": "#5f7e97",
 		"tab.unfocusedActiveBorder": "#262a39",
 		"tab.unfocusedActiveForeground": "#5f7e97",
