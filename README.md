@@ -1,14 +1,16 @@
 # Hivacruz Theme for VSCode
 
-## This is the README for your extension "hivacruz-color-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Status
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+The theme is a *work in progress*. It can be used but it's not available yet on the Extension Marketplace.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Same theme in other applications
 
-**Enjoy!**
+* Sublime Text theme : https://github.com/kinoute/hivacruz-sublime-theme
+* Typora Theme : https://github.com/kinoute/typora-hivacruz-theme
+* iTerm2 : https://github.com/kinoute/hivacruz-itermcolors
+
+## Credits
+
+* Created by [Yann Defretin](https://github.com/kinoute).
+
