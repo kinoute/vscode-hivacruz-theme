@@ -8,7 +8,7 @@
 			"settings": {
 				"foreground": "#ff0000"
 			}
-		}
+		},
 		{
 			"name": "Functions parameters in PHP",
 			"scope": "meta.function.parameters.php",
@@ -456,7 +456,7 @@
 		"editorGroupHeader.tabsBackground": "#0b2942",
 		"editorGroupHeader.tabsBorder": "#262a39",
 		"editorGutter.addedBackground": "#5f7e97",
-		"editorGutter.background": "#011627",
+		"editorGutter.background": "#152638",
 		"editorGutter.deletedBackground": "#5f7e97",
 		"editorGutter.modifiedBackground": "#5f7e97",
 		"editorHoverWidget.background": "#011627",
@@ -488,9 +488,9 @@
 		"activityBar.foreground": "#5f7e97",
 		"activityBarBadge.background": "#ab47bc",
 		"activityBarBadge.foreground": "#ffffff",
-		"sideBar.background": "#152638",
+		"sideBar.background": "#212431",
 		"sideBar.border": "#152638",
-		"sideBar.foreground": "#5f7e97",
+		"sideBar.foreground": "#00bfd3",
 		"sideBarSectionHeader.background": "#011627",
 		"sideBarSectionHeader.foreground": "#5f7e97",
 		"sideBarTitle.foreground": "#5f7e97",
