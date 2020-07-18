@@ -1,8 +1,9 @@
 {
-    "name": "hivacruz-color-theme",
-    "displayName": "Hivacruz Color Theme",
-    "description": "A dark color theme inspired by the Coda Palenight Theme. Works well with Material Theme and Roboto Mono font.",
-    "version": "0.0.1",
+    "name": "hivacruz-theme",
+    "displayName": "Hivacruz Theme",
+    "description": "A dark color theme inspired by the Coda Palenight Theme.",
+    "version": "0.1.0",
+    "publisher": "kinoute",
     "engines": {
         "vscode": "^1.30.0"
     },
@@ -17,5 +18,20 @@
                 "path": "./themes/Hivacruz-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kinoute/vscode-hivacruz-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kinoute/vscode-hivacruz-theme/issues"
+    },
+    "homepage": "https://github.com/kinoute/vscode-hivacruz-theme/blob/master/README.md",
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Dark",
+        "Hivacruz"
+    ],
+    "author": "Yann Defretin <yann@defret.in> (http://y.defret.in)",
 }
