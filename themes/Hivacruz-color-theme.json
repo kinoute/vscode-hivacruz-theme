@@ -426,7 +426,7 @@
 			"name": "Nullabe type in PHP",
 			"scope": "keyword.operator.nullable-type.php",
 			"settings": {
-				"foreground": "#fff"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -441,6 +441,98 @@
 			"scope": "meta.function-call.generic.python",
 			"settings": {
 				"foreground": "#27c3ca"
+			}
+		},
+		{
+			"name": "Built-in function Bash",
+			"scope": "support.function.builtin.shell",
+			"settings": {
+				"foreground": "#27c3ca"
+			}
+		},
+		{
+			"name": "Heading Markdown",
+			"scope": "markup.heading.markdown",
+			"settings": {
+				"foreground": "#afe61d",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Bold Markdown",
+			"scope": "markup.bold.markdown",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "List Punctuation Markdown",
+			"scope": "punctuation.definition.list.begin.markdown",
+			"settings": {
+				"foreground": "#f0b752"
+			}
+		},
+		{
+			"name": "Inline Code Blocks Markdown",
+			"scope": "markup.inline.raw.string.markdown",
+			"settings": {
+				"foreground": "#8aa1e1"
+			}
+		},
+		{
+			"name": "Code Blocks Language Markdown",
+			"scope": "fenced_code.block.language.markdown",
+			"settings": {
+				"foreground": "#8aa1e1"
+			}
+		},
+		{
+			"name": "Code Blocks Punctuation Markdown",
+			"scope": "punctuation.definition.markdown",
+			"settings": {
+				"foreground": "#8aa1e1"
+			}
+		},
+		{
+			"name": "Link URI Markdown",
+			"scope": "markup.underline.link.markdown",
+			"settings": {
+				"foreground": "#F0B752"
+			}
+		},
+		{
+			"name": "Link String Markdown",
+			"scope": "string.other.link.title.markdown",
+			"settings": {
+				"foreground": "#27c3ca"
+			}
+		},
+		{
+			"name": "Image URI Markdown",
+			"scope": "markup.underline.link.image.markdown",
+			"settings": {
+				"foreground": "#F0B752"
+			}
+		},
+		{
+			"name": "Image Description Markdown",
+			"scope": "string.other.link.description.markdown",
+			"settings": {
+				"foreground": "#27c3ca"
+			}
+		},
+		{
+			"name": "Quote Markdown",
+			"scope": "markup.quote.markdown",
+			"settings": {
+				"foreground": "#b87f62",
+			}
+		},
+		{
+			"name": "Python Class Name",
+			"scope": "entity.name.type.class.python",
+			"settings": {
+				"foreground": "#AFE61D",
 			}
 		}
 	],
@@ -558,8 +650,8 @@
 		"inputValidation.infoBorder": "#64b5f6",
 		"inputValidation.warningBackground": "#675700f2",
 		"inputValidation.warningBorder": "#ffca28",
-		"list.activeSelectionBackground": "#5f7e97",
-		"list.activeSelectionForeground": "#ab47bc",
+		"list.activeSelectionBackground": "#152638",
+		"list.activeSelectionForeground": "#ffffff",
 		"list.dropBackground": "#011627",
 		"list.focusBackground": "#010d18",
 		"list.focusForeground": "#ffffff",
