@@ -529,6 +529,13 @@
 			}
 		},
 		{
+			"name": "Italic Markdown",
+			"scope": "markup.italic.markdown",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Python Class Name",
 			"scope": "entity.name.type.class.python",
 			"settings": {
@@ -537,6 +544,8 @@
 		}
 	],
 	"colors": {
+	    "dropdown.background": "#212431",
+    	"dropdown.border": "#5f7e97",
 		"editor.background": "#152638",
 		"editorCursor.foreground": "#7d809f",
 		"editor.foreground": "#e5e5e5",
@@ -639,7 +648,7 @@
 		"titleBar.activeBackground": "#011627",
 		"titleBar.activeForeground": "#eeefff",
 		"titleBar.inactiveBackground": "#010e1a",
-		"input.background": "#0b253a",
+		"input.background": "#212431",
 		"input.border": "#5f7e97",
 		"input.foreground": "#ffffffcc",
 		"input.placeholderForeground": "#5f7e97",
@@ -693,7 +702,7 @@
 		"scrollbarSlider.background": "#084d8180",
 		"scrollbarSlider.hoverBackground": "#084d8180",
 		"selection.background": "#4373c2",
-		"settings.headerForeground": "#ab47bc",
+		"settings.headerForeground": "#afe61d",
 		"settings.modifiedItemIndicator": "#ab47bc",
 	},
 	"name": "Hivacruz"
