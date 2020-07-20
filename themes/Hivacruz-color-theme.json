@@ -242,14 +242,29 @@
 			}
 		},
 		{
+			"name": "Variable in LESS",
+			"scope": "variable.other.less",
+			"settings": {
+				"foreground": "#f5f5f5",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Element Attribute CSS",
 			"scope": [
 				"entity.other.attribute-name.pseudo-element.css",
-				"entity.other.attribute-name.pseudo-class.css"
+				"entity.other.attribute-name.pseudo-class.css",
 			],
 			"settings": {
 				"foreground": "#f5f5f5"
 			}
+		},
+		{
+			"name": "Punctuation Less Variable",
+			"scope": "punctuation.definition.variable.less",
+			"settings": {
+				"foreground": "#edbb57",
+			},
 		},
 		{
 			"settings": {
