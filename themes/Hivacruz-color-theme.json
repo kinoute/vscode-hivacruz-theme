@@ -708,6 +708,7 @@
 		"scrollbarSlider.hoverBackground": "#084d8180",
 		"selection.background": "#4373c2",
 		"settings.headerForeground": "#afe61d",
-		"settings.modifiedItemIndicator": "#5f7e97"
+		"settings.modifiedItemIndicator": "#5f7e97",
+		"quickInput.background": "#152638"
 	}
 }
