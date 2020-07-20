@@ -15,10 +15,21 @@
 			}
 		},
 		{
-			"name": "Functions parameters in PHP",
-			"scope": "meta.function.parameters.php",
+			"name": "Function parameters PHP",
+			"scope": [
+				"meta.function.parameter variable",
+				"meta.function.parameter punctuation.definition.variable.php"
+			],
 			"settings": {
-				"foreground": "#ff8e30"
+				"foreground": "#4ca03c",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Color of keyword in PHP",
+			"scope": "keyword.operator.return-value.php",
+			"settings": {
+				"foreground": "#f5f5f5"
 			}
 		},
 		{
@@ -217,6 +228,27 @@
 				"background": "#152639FF",
 				"foreground": "#00FFFFFF",
 				"caret": "#004C4CFF"
+			}
+		},
+		{
+			"name": "Variable in CSS",
+			"scope": [
+				"variable.css",
+				"variable.argument.css"
+			],
+			"settings": {
+				"foreground": "#edbb57",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Element Attribute CSS",
+			"scope": [
+				"entity.other.attribute-name.pseudo-element.css",
+				"entity.other.attribute-name.pseudo-class.css"
+			],
+			"settings": {
+				"foreground": "#f5f5f5"
 			}
 		},
 		{
@@ -435,6 +467,13 @@
 			}
 		},
 		{
+			"name": "Class name in PHP",
+			"scope": "entity.name.type.class.php",
+			"settings": {
+				"foreground": "#AFE61D"
+			}
+		},
+		{
 			"name": "Docstring Python",
 			"scope": "string.quoted.docstring.multi.python",
 			"settings": {
@@ -598,14 +637,14 @@
 		"editorSuggestWidget.highlightForeground": "#ab47bc",
 		"editorSuggestWidget.selectedBackground": "#5f7e97",
 		"editorWarning.foreground": "#b39554",
-		"editorWidget.background": "#31364a",
+		"editorWidget.background": "#152638",
 		"editorWidget.border": "#ab47bc",
 		"editorWidget.resizeBorder": "#ab47bc",
 		"errorForeground": "#ef5350",
 		"activityBar.background": "#212431",
 		"activityBar.border": "#212431",
 		"activityBar.dropBackground": "#5f7e97",
-		"activityBar.foreground": "#5f7e97",
+		"activityBar.foreground": "#f5f5f5",
 		"activityBarBadge.background": "#011627",
 		"activityBarBadge.foreground": "#ffffff",
 		"sideBar.background": "#212431",
@@ -702,13 +741,14 @@
 		"pickerGroup.border": "#011627",
 		"pickerGroup.foreground": "#ab47bc",
 		"progressBar.background": "#ab47bc",
-		"scrollbar.shadow": "#010b14",
 		"scrollbarSlider.activeBackground": "#ab47bc50",
 		"scrollbarSlider.background": "#084d8180",
 		"scrollbarSlider.hoverBackground": "#084d8180",
 		"selection.background": "#4373c2",
 		"settings.headerForeground": "#afe61d",
 		"settings.modifiedItemIndicator": "#5f7e97",
-		"quickInput.background": "#152638"
+		"quickInput.background": "#152638",
+		"scrollbar.shadow": "#ffffff00",
+		"widget.shadow": "#ffffff00"
 	}
 }
