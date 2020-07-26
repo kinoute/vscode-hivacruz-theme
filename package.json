@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.30.0"
     },
+    "galleryBanner": {
+        "color": "#061526",
+        "theme": "dark"
+    },
     "categories": [
         "Themes"
     ],
@@ -35,5 +39,6 @@
         "Dark Blue",
         "Dark Theme"
     ],
-    "author": "Yann Defretin <yann@defret.in> (http://y.defret.in)"
+    "author": "Yann Defretin <yann@defret.in> (http://y.defret.in)",
+    "icon": "icon.png"
 }
