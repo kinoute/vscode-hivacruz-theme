@@ -492,7 +492,7 @@
 			"name": "Docstring Python",
 			"scope": "string.quoted.docstring.multi.python",
 			"settings": {
-				"foreground": "#B87F62"
+				"foreground": "#b87f62"
 			}
 		},
 		{
@@ -763,6 +763,7 @@
 		"settings.headerForeground": "#afe61d",
 		"settings.modifiedItemIndicator": "#5f7e97",
 		"quickInput.background": "#152638",
+		"quickInput.border": "#ff0000",
 		"scrollbar.shadow": "#ffffff00",
 		"widget.shadow": "#ffffff00"
 	}
