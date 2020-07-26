@@ -600,7 +600,14 @@
 			"settings": {
 				"foreground": "#AFE61D",
 			}
-		}
+		},
+		{
+			"name": "Class Name Ruby",
+			"scope": "entity.name.type.class.ruby",
+			"settings": {
+				"foreground": "#AFE61D"
+			}
+		},
 	],
 	"colors": {
 		"focusBorder": "#5f7e97",
@@ -704,9 +711,9 @@
 		"terminal.ansiRed": "#ef5350",
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiYellow": "#addb67",
-		"titleBar.activeBackground": "#011627",
-		"titleBar.activeForeground": "#eeefff",
-		"titleBar.inactiveBackground": "#010e1a",
+		"titleBar.activeBackground": "#212431",
+		"titleBar.activeForeground": "#00bfd3",
+		"titleBar.inactiveBackground": "#212431",
 		"input.background": "#212431",
 		"input.border": "#5f7e97",
 		"input.foreground": "#ffffffcc",
