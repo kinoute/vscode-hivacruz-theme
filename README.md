@@ -23,11 +23,14 @@ Here are the settings used in the preview screenshot posted above:
 
 ### Font
 
-The font used and **recommended** for this theme is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) by Christian Robertson. On macOS, you can install it with Homebrew like this:
+The font used and **recommended** for this theme is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) by Christian Robertson. We recommend to use the "[Powerline](https://github.com/powerline/fonts/tree/master/RobotoMono)" version to have a better experience while using the integrated Terminal – in case you're using `zsh` for example.  But the simple "Roboto Mono" font is fine too, just don't forget to change your settings according to the version you use.
+
+On macOS, you can install the fonts with Homebrew like this:
 
 ```bash
 brew tap homebrew/cask-fonts
-brew cask install font-roboto-mono-for-powerline
+brew cask install font-roboto-mono # basic roboto mono version
+brew cask install font-roboto-mono-for-powerline # better roboto mono for terminal
 ```
 
 ### VSCode Settings
