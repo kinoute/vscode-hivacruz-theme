@@ -27,7 +27,7 @@ The font used and **recommended** for this theme is [Roboto Mono](https://fonts.
 
 ```bash
 brew tap homebrew/cask-fonts
-brew cask install font-roboto-mono
+brew cask install font-roboto-mono-for-powerline
 ```
 
 ### VSCode Settings
@@ -39,10 +39,12 @@ At the moment, I use these settings:
     "editor.formatOnSave": true,
     "window.nativeTabs": false,
     "window.zoomLevel": 0,
-    "editor.fontFamily": "Roboto Mono",
+    "editor.fontFamily": "Roboto Mono for Powerline",
+    "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
     "window.titleBarStyle": "custom",
     "workbench.iconTheme": "vscode-great-icons",
-    "workbench.colorTheme": "Hivacruz"
+    "workbench.colorTheme": "Hivacruz",
+    "editor.renderLineHighlight": "all"
 }
 ```
 
