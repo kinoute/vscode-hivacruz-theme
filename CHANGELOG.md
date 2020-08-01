@@ -3,6 +3,14 @@ All notable changes to the "hivacruz-color-theme" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.2.2
+
+* Added some transparency to the scrollbars
+* Changed the border color between editor and terminal
+* Changed badge background color
+* Changed button background color
+* Added new syntax highlighting for some languages (ini, C, Ruby)
+
 ## 0.2.1
 
 * Updated instructions for fonts
