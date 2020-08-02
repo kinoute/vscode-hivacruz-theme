@@ -6,11 +6,11 @@ A dark blue theme for Visual Studio Code, available on the [Extensions Marketpla
 
 ## Status
 
-The theme is a *work in progress* and might change a lot in the upcoming weeks.
+The theme is a _work in progress_ and might change a lot in the upcoming weeks.
 
 ## Installation
 
-1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+1. Open the **Extensions** sidebar in VS Code with `View → Extensions`
 2. Search for `Hivacruz`, choose "Hivacruz Theme" by **Yann Defretin**
 3. Click **Install** to install it
 4. Click **Reload** to reload your editor
@@ -23,7 +23,7 @@ Here are the settings used in the preview screenshot posted above:
 
 ### Font
 
-The font used and **recommended** for this theme is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) by Christian Robertson. We recommend to use the "[Powerline](https://github.com/powerline/fonts/tree/master/RobotoMono)" version to have a better experience while using the integrated Terminal – in case you're using `zsh` for example.  But the simple "Roboto Mono" font is fine too, just don't forget to change your settings according to the version you use.
+The font used and **recommended** for this theme is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) by Christian Robertson. We recommend to use the "[Powerline](https://github.com/powerline/fonts/tree/master/RobotoMono)" version to have a better experience while using the integrated Terminal – in case you're using `zsh` for example. But the simple "Roboto Mono" font is fine too, just don't forget to change your settings according to the version you use.
 
 On macOS, you can install the fonts with Homebrew like this:
 
@@ -39,15 +39,15 @@ At the moment, I use these settings:
 
 ```json
 {
-    "editor.formatOnSave": true,
-    "window.nativeTabs": false,
-    "window.zoomLevel": 0,
-    "editor.fontFamily": "Roboto Mono for Powerline",
-    "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
-    "window.titleBarStyle": "custom",
-    "workbench.iconTheme": "vscode-great-icons",
-    "workbench.colorTheme": "Hivacruz",
-    "editor.renderLineHighlight": "all"
+  "editor.formatOnSave": true,
+  "window.nativeTabs": false,
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "Roboto Mono for Powerline",
+  "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
+  "window.titleBarStyle": "custom",
+  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.colorTheme": "Hivacruz",
+  "editor.renderLineHighlight": "all"
 }
 ```
 
@@ -109,11 +109,10 @@ For that matter, Issues and Pull Requests are very welcome!
 
 I made similar themes with the same colours for different applications. Here there are:
 
-* Sublime Text theme : https://github.com/kinoute/hivacruz-sublime-theme
-* Typora Theme : https://github.com/kinoute/typora-hivacruz-theme
-* iTerm2 : https://github.com/kinoute/hivacruz-itermcolors
+- Sublime Text theme : https://github.com/kinoute/hivacruz-sublime-theme
+- Typora Theme : https://github.com/kinoute/typora-hivacruz-theme
+- iTerm2 : https://github.com/kinoute/hivacruz-itermcolors
 
 ## Credits
 
-* Created by [Yann Defretin](https://github.com/kinoute).
-
+- Created by [Yann Defretin](https://github.com/kinoute).

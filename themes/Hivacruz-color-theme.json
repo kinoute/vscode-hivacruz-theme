@@ -608,6 +608,13 @@
       }
     },
     {
+      "name": "Punctuation for object Ruby",
+      "scope": "punctuation.definition.variable.ruby",
+      "settings": {
+        "foreground": "#FF8E30"
+      }
+    },
+    {
       "name": "Value Ini",
       "scope": "source.ini",
       "settings": {
@@ -660,10 +667,10 @@
     "editorGroupHeader.noTabsBackground": "#0b2942",
     "editorGroupHeader.tabsBackground": "#212431",
     "editorGroupHeader.tabsBorder": "#262a39",
-    "editorGutter.addedBackground": "#5f7e97",
+    "editorGutter.addedBackground": "#48e16e",
     "editorGutter.background": "#152638",
-    "editorGutter.deletedBackground": "#5f7e97",
-    "editorGutter.modifiedBackground": "#f1f9ff",
+    "editorGutter.deletedBackground": "#FF5555cc",
+    "editorGutter.modifiedBackground": "#8BE9FD",
     "editorHoverWidget.background": "#011627",
     "editorHoverWidget.border": "#5f7e97",
     "editorIndentGuide.activeBackground": "#5f7e974d",
@@ -756,7 +763,7 @@
     "list.activeSelectionBackground": "#152638",
     "list.activeSelectionForeground": "#ffffff",
     "list.dropBackground": "#011627",
-    "list.focusBackground": "#010d18",
+    "list.focusBackground": "#011627",
     "list.focusForeground": "#ffffff",
     "list.highlightForeground": "#ffffff",
     "list.hoverBackground": "#011627",
