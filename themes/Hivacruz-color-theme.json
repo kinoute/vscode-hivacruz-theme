@@ -611,7 +611,24 @@
       "name": "Punctuation for object Ruby",
       "scope": "punctuation.definition.variable.ruby",
       "settings": {
-        "foreground": "#FF8E30"
+        "foreground": "#fff"
+      }
+    },
+    {
+      "name": "Methods Ruby Rails",
+      "scope": "support.function.core.ruby",
+      "settings": {
+        "foreground": "#fff"
+      }
+    },
+    {
+      "name": "Function Ruby Rails",
+      "scope": [
+        "entity.name.function.ruby",
+        "meta.function.method.with-arguments.ruby"
+      ],
+      "settings": {
+        "foreground": "#27C3CA"
       }
     },
     {
@@ -808,6 +825,7 @@
     "quickInput.background": "#152638",
     "quickInput.border": "#212431",
     "scrollbar.shadow": "#ffffff00",
-    "button.background": "#011627"
+    "button.background": "#011627",
+    "notebook.cellBorderColor": "#FFFfff"
   }
 }
