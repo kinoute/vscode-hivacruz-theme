@@ -109,9 +109,10 @@ For that matter, Issues and Pull Requests are very welcome!
 
 I made similar themes with the same colours for different applications. Here there are:
 
-- Sublime Text theme : https://github.com/kinoute/hivacruz-sublime-theme
-- Typora Theme : https://github.com/kinoute/typora-hivacruz-theme
-- iTerm2 : https://github.com/kinoute/hivacruz-itermcolors
+- Sublime Text theme: https://github.com/kinoute/hivacruz-sublime-theme
+- Typora Theme: https://github.com/kinoute/typora-hivacruz-theme
+- iTerm2: https://github.com/kinoute/hivacruz-itermcolors
+- Nova: https://github.com/kinoute/hivacruz-nova-theme
 
 ## Credits
 
