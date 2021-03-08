@@ -4,6 +4,10 @@ All notable changes to the "hivacruz-color-theme" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.2.4
+
+- Fixed list background color with new VSCode version
+
 ## 0.2.3
 
 - Added color for @ symbol in Ruby

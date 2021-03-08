@@ -781,6 +781,7 @@
     "list.activeSelectionForeground": "#ffffff",
     "list.dropBackground": "#011627",
     "list.focusBackground": "#011627",
+    "quickInput.list.focusBackground": "#011627",
     "list.focusForeground": "#ffffff",
     "list.highlightForeground": "#ffffff",
     "list.hoverBackground": "#011627",
