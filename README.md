@@ -29,7 +29,7 @@ On macOS, you can install the fonts with Homebrew like this:
 
 ```bash
 brew tap homebrew/cask-fonts
-brew cask install font-roboto-mono # basic roboto mono version
+brew cask install font-robotomono-nerd-font 
 brew cask install font-roboto-mono-for-powerline # better roboto mono for terminal
 ```
 
@@ -42,12 +42,13 @@ At the moment, I use these settings:
   "editor.formatOnSave": true,
   "window.nativeTabs": false,
   "window.zoomLevel": 0,
-  "editor.fontFamily": "Roboto Mono for Powerline",
+  "editor.fontFamily": "RobotoMono Nerd Font",
   "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
   "window.titleBarStyle": "custom",
   "workbench.iconTheme": "vscode-great-icons",
   "workbench.colorTheme": "Hivacruz",
-  "editor.renderLineHighlight": "all"
+  "editor.renderLineHighlight": "all",
+  "editor.fontWeight": 500
 }
 ```
 
@@ -110,6 +111,7 @@ For that matter, Issues and Pull Requests are very welcome!
 I made similar themes with the same colours for different applications. Here there are:
 
 - Sublime Text theme: https://github.com/kinoute/hivacruz-sublime-theme
+- Vim Theme: https://github.com/kinoute/vim-hivacruz-theme
 - Typora Theme: https://github.com/kinoute/typora-hivacruz-theme
 - iTerm2: https://github.com/kinoute/hivacruz-itermcolors
 - Nova: https://github.com/kinoute/hivacruz-nova-theme
