@@ -19,8 +19,15 @@
         "meta.function.parameter punctuation.definition.variable.php"
       ],
       "settings": {
-        "foreground": "#4ca03c",
+        "foreground": "#FF8E30",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Dollar sign color PHP",
+      "scope": "punctuation.definition.variable.php",
+      "settings": {
+        "foreground": "#FF8E30"
       }
     },
     {
@@ -655,6 +662,29 @@
       "settings": {
         "foreground": "#ffffff"
       }
+    },
+    {
+      "name": "JSON key",
+      "scope": "support.type.property-name.json",
+      "settings": {
+        "foreground": "#ff8e30",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "PHP Type Hinted",
+      "scope": "keyword.other.type.php, meta.function.parameter.typehinted.php",
+      "settings": {
+        "foreground": "#a982ff",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Nginx directive",
+      "scope": "constant.language.directive.module.http, constant.language.module.http.proxy",
+      "settings": {
+        "foreground": "#ff8e30"
+      }
     }
   ],
   "colors": {
@@ -705,9 +735,9 @@
     "editorRuler.foreground": "#5e81ce52",
     "editorSuggestWidget.background": "#2c3043",
     "editorSuggestWidget.border": "#2b2f40",
-    "editorSuggestWidget.foreground": "#d6deeb",
-    "editorSuggestWidget.highlightForeground": "#ab47bc",
-    "editorSuggestWidget.selectedBackground": "#5f7e97",
+    "editorSuggestWidget.foreground": "#7DA6B7",
+    "editorSuggestWidget.highlightForeground": "#fff",
+    "editorSuggestWidget.selectedBackground": "#3C4559",
     "editorWarning.foreground": "#b39554",
     "editorWidget.background": "#152638",
     "editorWidget.border": "#ab47bc",
@@ -827,6 +857,8 @@
     "quickInput.border": "#212431",
     "scrollbar.shadow": "#ffffff00",
     "button.background": "#011627",
-    "notebook.cellBorderColor": "#FFFfff"
+    "notebook.cellBorderColor": "#192133",
+    "notebook.cellEditorBackground": "#192133",
+    "gitDecoration.ignoredResourceForeground": "#416177"
   }
 }

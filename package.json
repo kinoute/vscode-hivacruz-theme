@@ -2,7 +2,7 @@
     "name": "hivacruz-theme",
     "displayName": "Hivacruz Theme",
     "description": "A dark blue color theme inspired by the Coda Palenight Theme.",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "publisher": "kinoute",
     "engines": {
         "vscode": "^1.30.0"
